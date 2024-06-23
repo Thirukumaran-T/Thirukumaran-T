@@ -6,7 +6,7 @@ Software Developer intern @ izeon innovative private limited
 - 🌱 I’m currently learning DSA
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
-- 📫 How to reach me :[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https:www.linkedin.com/in/thirukumaran18/)
+- 📫 How to reach me :[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https:www.linkedin.com/in/thirukumaran18)
 
 
 ### I code in
